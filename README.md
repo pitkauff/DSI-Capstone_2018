@@ -71,7 +71,7 @@ We have tried different types of deep learning models: DNN (base model), CNN (to
 * Train on Re309Fr2-coarse8 and Re1243Fr20-coarse8 to isolate the effects of the initial conditions. Here Re309Fr2 shows the least amount of turbulence while Re1243Fr20 shows the most turbulence among all our datasets
 * Train on Re309Fr2-coarse8 and Re1243Fr20-coarse8, both at time steps T1 and T2 to isolate the effects of temporal information
 
-For a full overview of our modeling, please visit the [DNN folder](https://github.com/Codyz/dscaptstone/tree/master/Code/DNN).
+For a full overview of our modeling, please visit the [DNN folder](https://github.com/Codyz/dscaptstone/tree/master/Code/DNN) or the [report](https://github.com/pitkauff/DSI-Capstone_2018/blob/master/Final%20Report.pdf).
 
 #### How to navigate this repository:
 
