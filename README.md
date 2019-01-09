@@ -102,7 +102,7 @@ For a full overview of our modeling, please visit the [DNN folder](https://githu
       |         |-- Final Models
       |         |    |-- Multi Output
       |         |         |-- Contains multi-output DNN models, which predict all sheer stresses and heat flux
-      |         |         |-- Inputs: base input, differing conditions, differing conditions and time steps, different coarses
+      |         |         |-- Inputs: base input, diff. conditions, diff. conditions and time steps, diff. coarses
       |         |    |-- Single Output
       |         |         |-- Contains single-output DNN models for heat flux and sheer stresses
       |         |         |-- Inputs: base input, differing conditions and differing conditions and time steps
@@ -115,7 +115,7 @@ For a full overview of our modeling, please visit the [DNN folder](https://githu
       |         |-- Predictions
       |              |-- Multi Output
       |              |    |-- Contains predictions of multi-output models for heat flux and sheer stress
-      |              |    |-- Inputs: base input, differing conditions, differing conditions and time steps, different coarses
+      |              |    |-- Inputs: base input, diff. conditions, diff. conditions and time steps, diff. coarses
       |              |-- Single Output
       |              |    |-- Taus
       |              |         |-- Contains predictions of single-output models for sheer stresses
